@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm Fatemeh Ziraki
 
-<!--
-**fziraki/fziraki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Engineer with 8+ years of experience building scalable Android applications using Kotlin and Jetpack Compose.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 Android Engineer
+- 💙 Kotlin & Jetpack Compose
+- 🧩 Modular & Clean Architecture
+- 🌱 Currently learning KMP/CMP
+
+---
+
+## 🛠 Tech Stack
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatemeh%20Ziraki-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fatemeh-ziraki/)
+
+[![Medium](https://img.shields.io/badge/Medium-Read%20my%20articles-12100E?style=for-the-badge&logo=medium)](https://medium.com/@fatemeh.zirakit)
+
