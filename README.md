@@ -5,9 +5,9 @@ Android Engineer with 8+ years of experience building scalable Android applicati
 ## 🚀 About Me
 
 - 📱 Android Engineer
-- 💙 Kotlin & Jetpack Compose
+- 💙 Kotlin & Jetpack Compose & KMP/CMP
 - 🧩 Modular & Clean Architecture
-- 🌱 Currently learning KMP/CMP
+- 🌱 Currently learning Flutter
 
 ---
 
